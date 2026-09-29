@@ -1,0 +1,503 @@
+{
+ "about-tank-farm": {
+  "alpha": false,
+  "h": 4094,
+  "w": 6138,
+  "widths": [
+   800,
+   1600,
+   2400
+  ]
+ },
+ "brake-disc": {
+  "alpha": false,
+  "h": 1121,
+  "w": 2000,
+  "widths": [
+   800,
+   1600
+  ]
+ },
+ "cert-bv-iso14001": {
+  "alpha": false,
+  "h": 365,
+  "w": 701,
+  "widths": []
+ },
+ "cert-bv-iso45001": {
+  "alpha": false,
+  "h": 361,
+  "w": 694,
+  "widths": []
+ },
+ "cert-bv-iso9001": {
+  "alpha": false,
+  "h": 430,
+  "w": 792,
+  "widths": []
+ },
+ "cert-emirates-quality": {
+  "alpha": false,
+  "h": 400,
+  "w": 509,
+  "widths": []
+ },
+ "cert-eneos": {
+  "alpha": false,
+  "h": 237,
+  "w": 460,
+  "widths": []
+ },
+ "cert-iso17025": {
+  "alpha": true,
+  "h": 406,
+  "w": 373,
+  "widths": []
+ },
+ "cert-saso-quality": {
+  "alpha": false,
+  "h": 195,
+  "w": 121,
+  "widths": []
+ },
+ "cert-saso-standards": {
+  "alpha": true,
+  "h": 202,
+  "w": 724,
+  "widths": []
+ },
+ "cert-saudi-accreditation": {
+  "alpha": false,
+  "h": 630,
+  "w": 1200,
+  "widths": []
+ },
+ "cert-saudi-made": {
+  "alpha": false,
+  "h": 342,
+  "w": 1263,
+  "widths": []
+ },
+ "client-al-jaber": {
+  "alpha": false,
+  "h": 129,
+  "w": 400,
+  "widths": []
+ },
+ "client-juffali": {
+  "alpha": false,
+  "h": 258,
+  "w": 661,
+  "widths": []
+ },
+ "client-modern-bus": {
+  "alpha": false,
+  "h": 278,
+  "w": 719,
+  "widths": []
+ },
+ "client-sgp-riyadh": {
+  "alpha": true,
+  "h": 133,
+  "w": 595,
+  "widths": []
+ },
+ "contact-plant": {
+  "alpha": false,
+  "h": 2499,
+  "w": 3747,
+  "widths": [
+   800,
+   1600,
+   2400
+  ]
+ },
+ "coolant-engine": {
+  "alpha": false,
+  "h": 1500,
+  "w": 1053,
+  "widths": [
+   800,
+   1053
+  ]
+ },
+ "def-cap": {
+  "alpha": false,
+  "h": 1086,
+  "w": 1448,
+  "widths": [
+   800,
+   1448
+  ]
+ },
+ "diesel-truck": {
+  "alpha": false,
+  "h": 1977,
+  "w": 3515,
+  "widths": [
+   800,
+   1600
+  ]
+ },
+ "esg-gri": {
+  "alpha": true,
+  "h": 190,
+  "w": 190,
+  "widths": []
+ },
+ "esg-msci": {
+  "alpha": false,
+  "h": 183,
+  "w": 395,
+  "widths": []
+ },
+ "fleets-dump-truck": {
+  "alpha": false,
+  "h": 3389,
+  "w": 2319,
+  "widths": [
+   800,
+   1600
+  ]
+ },
+ "footprint-map": {
+  "alpha": false,
+  "h": 1094,
+  "w": 1439,
+  "widths": [
+   720,
+   1439
+  ]
+ },
+ "gearbox-oil": {
+  "alpha": true,
+  "h": 1379,
+  "w": 1376,
+  "widths": [
+   800,
+   1376
+  ]
+ },
+ "gears-golden": {
+  "alpha": false,
+  "h": 1086,
+  "w": 1448,
+  "widths": [
+   800,
+   1448
+  ]
+ },
+ "grease-bearing": {
+  "alpha": false,
+  "h": 1086,
+  "w": 1448,
+  "widths": [
+   800,
+   1448
+  ]
+ },
+ "handshake": {
+  "alpha": false,
+  "h": 4608,
+  "w": 3712,
+  "widths": [
+   800,
+   1600
+  ]
+ },
+ "hero-truck": {
+  "alpha": false,
+  "h": 2480,
+  "w": 3508,
+  "widths": [
+   960,
+   1600,
+   2400
+  ]
+ },
+ "hydraulic-cylinder": {
+  "alpha": false,
+  "h": 4160,
+  "w": 6240,
+  "widths": [
+   800,
+   1600
+  ]
+ },
+ "legacy-1968": {
+  "alpha": false,
+  "h": 240,
+  "w": 498,
+  "widths": []
+ },
+ "legacy-1982": {
+  "alpha": false,
+  "h": 240,
+  "w": 497,
+  "widths": []
+ },
+ "legacy-2007": {
+  "alpha": false,
+  "h": 241,
+  "w": 498,
+  "widths": []
+ },
+ "legacy-2010": {
+  "alpha": false,
+  "h": 240,
+  "w": 491,
+  "widths": []
+ },
+ "legacy-2021": {
+  "alpha": false,
+  "h": 242,
+  "w": 498,
+  "widths": []
+ },
+ "legacy-2023": {
+  "alpha": false,
+  "h": 240,
+  "w": 497,
+  "widths": []
+ },
+ "legacy-scene": {
+  "alpha": false,
+  "h": 1344,
+  "w": 2526,
+  "widths": [
+   1200,
+   2000
+  ]
+ },
+ "oem-cummins": {
+  "alpha": true,
+  "h": 207,
+  "w": 200,
+  "widths": []
+ },
+ "oem-daimler": {
+  "alpha": true,
+  "h": 192,
+  "w": 400,
+  "widths": []
+ },
+ "oem-dexos1": {
+  "alpha": false,
+  "h": 154,
+  "w": 389,
+  "widths": []
+ },
+ "oem-gm": {
+  "alpha": true,
+  "h": 226,
+  "w": 231,
+  "widths": []
+ },
+ "oem-mack": {
+  "alpha": false,
+  "h": 159,
+  "w": 317,
+  "widths": []
+ },
+ "oem-renault": {
+  "alpha": false,
+  "h": 195,
+  "w": 195,
+  "widths": []
+ },
+ "oem-scania": {
+  "alpha": false,
+  "h": 217,
+  "w": 399,
+  "widths": []
+ },
+ "oem-volvo": {
+  "alpha": false,
+  "h": 249,
+  "w": 260,
+  "widths": []
+ },
+ "oil-finder-phone": {
+  "alpha": true,
+  "h": 2324,
+  "w": 2035,
+  "widths": [
+   700,
+   1400
+  ]
+ },
+ "seg-box-chiller": {
+  "alpha": false,
+  "h": 622,
+  "w": 737,
+  "widths": []
+ },
+ "seg-last-mile": {
+  "alpha": false,
+  "h": 622,
+  "w": 737,
+  "widths": []
+ },
+ "seg-long-haul": {
+  "alpha": false,
+  "h": 622,
+  "w": 737,
+  "widths": []
+ },
+ "seg-municipal": {
+  "alpha": false,
+  "h": 622,
+  "w": 737,
+  "widths": []
+ },
+ "seg-oil-gas": {
+  "alpha": false,
+  "h": 622,
+  "w": 737,
+  "widths": []
+ },
+ "seg-public-transport": {
+  "alpha": false,
+  "h": 622,
+  "w": 737,
+  "widths": []
+ },
+ "serve-assess": {
+  "alpha": true,
+  "h": 280,
+  "w": 581,
+  "widths": []
+ },
+ "serve-lab-on-wheels": {
+  "alpha": true,
+  "h": 211,
+  "w": 795,
+  "widths": []
+ },
+ "serve-mobile-tanks": {
+  "alpha": true,
+  "h": 275,
+  "w": 779,
+  "widths": []
+ },
+ "serve-ocm": {
+  "alpha": true,
+  "h": 175,
+  "w": 389,
+  "widths": []
+ },
+ "serve-tank-sensors": {
+  "alpha": true,
+  "h": 256,
+  "w": 586,
+  "widths": []
+ },
+ "serve-training": {
+  "alpha": true,
+  "h": 161,
+  "w": 469,
+  "widths": []
+ },
+ "services-inspector": {
+  "alpha": false,
+  "h": 3577,
+  "w": 6211,
+  "widths": [
+   800,
+   1600,
+   2400
+  ]
+ },
+ "spec-acea": {
+  "alpha": true,
+  "h": 201,
+  "w": 438,
+  "widths": []
+ },
+ "spec-api": {
+  "alpha": false,
+  "h": 137,
+  "w": 222,
+  "widths": []
+ },
+ "spec-astm": {
+  "alpha": true,
+  "h": 172,
+  "w": 187,
+  "widths": []
+ },
+ "svc-assess": {
+  "alpha": true,
+  "h": 2631,
+  "w": 1491,
+  "widths": [
+   800,
+   1491
+  ]
+ },
+ "svc-lab-on-wheels": {
+  "alpha": true,
+  "h": 2265,
+  "w": 1516,
+  "widths": [
+   800,
+   1516
+  ]
+ },
+ "svc-mobile-tanks": {
+  "alpha": true,
+  "h": 2265,
+  "w": 1501,
+  "widths": [
+   800,
+   1501
+  ]
+ },
+ "svc-ocm": {
+  "alpha": true,
+  "h": 2265,
+  "w": 1475,
+  "widths": [
+   800,
+   1475
+  ]
+ },
+ "svc-tank-sensors": {
+  "alpha": true,
+  "h": 2265,
+  "w": 1498,
+  "widths": [
+   800,
+   1498
+  ]
+ },
+ "svc-training": {
+  "alpha": true,
+  "h": 2265,
+  "w": 1433,
+  "widths": [
+   800,
+   1433
+  ]
+ },
+ "trial-fleet": {
+  "alpha": false,
+  "h": 2160,
+  "w": 3840,
+  "widths": [
+   800,
+   1600,
+   2400
+  ]
+ },
+ "xray-truck": {
+  "alpha": false,
+  "h": 1806,
+  "w": 3841,
+  "widths": [
+   1000,
+   2000,
+   3000
+  ]
+ }
+}
